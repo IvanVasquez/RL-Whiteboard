@@ -1,0 +1,14 @@
+# Blender MTL File: 'ball.blend'
+# Material Count: 1
+
+newmtl mat0
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\DELL\\Desktop\\rocket launge\\OUT\\_NinjaRipper\\2021.04.07_14.52.21_RocketLeague.exe_16076\\2021.04.07_14.53.00_RocketLeague.exe\\tex_2821_3out.png
+map_Ks C:\\Users\\DELL\\Desktop\\rocket launge\\OUT\\_NinjaRipper\\topsoru.png

@@ -20,3 +20,10 @@ A Rocket League coach tool, where you can teach and learn about Rocket League ro
 -   `Ctrl + B` Toggle boostpads
 -   `Ctrl + G` Toggle grid
 -   `Ctrl + R` Reset kickoff
+
+## Credits
+
+"Dominus - Rocket League Car" (https://skfb.ly/ooqE6) by Jako is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Fennec - Rocket League Car" (https://skfb.ly/oopFH) by Jako is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Octane - Rocket League Car" (https://skfb.ly/ooqDI) by Jako is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Rocket League Ball FREE 3D MODEL" (https://skfb.ly/onFZu) by niysi.ambalaj is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
